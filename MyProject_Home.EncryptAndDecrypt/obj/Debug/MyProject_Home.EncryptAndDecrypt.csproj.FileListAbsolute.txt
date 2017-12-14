@@ -1,0 +1,11 @@
+E:\Project\MyTest\小东西\MyProject_Home\MyProject_Home.EncryptAndDecrypt\bin\Debug\MyProject_Home.EncryptAndDecrypt.exe.config
+E:\Project\MyTest\小东西\MyProject_Home\MyProject_Home.EncryptAndDecrypt\bin\Debug\MyProject_Home.EncryptAndDecrypt.exe
+E:\Project\MyTest\小东西\MyProject_Home\MyProject_Home.EncryptAndDecrypt\bin\Debug\MyProject_Home.EncryptAndDecrypt.pdb
+E:\Project\MyTest\小东西\MyProject_Home\MyProject_Home.EncryptAndDecrypt\obj\Debug\MyProject_Home.EncryptAndDecrypt.csprojResolveAssemblyReference.cache
+E:\Project\MyTest\小东西\MyProject_Home\MyProject_Home.EncryptAndDecrypt\obj\Debug\MyProject_Home.EncryptAndDecrypt.frmEncryptAndDecrypt.resources
+E:\Project\MyTest\小东西\MyProject_Home\MyProject_Home.EncryptAndDecrypt\obj\Debug\MyProject_Home.EncryptAndDecrypt.Properties.Resources.resources
+E:\Project\MyTest\小东西\MyProject_Home\MyProject_Home.EncryptAndDecrypt\obj\Debug\MyProject_Home.EncryptAndDecrypt.csproj.GenerateResource.Cache
+E:\Project\MyTest\小东西\MyProject_Home\MyProject_Home.EncryptAndDecrypt\obj\Debug\MyProject_Home.EncryptAndDecrypt.exe
+E:\Project\MyTest\小东西\MyProject_Home\MyProject_Home.EncryptAndDecrypt\obj\Debug\MyProject_Home.EncryptAndDecrypt.pdb
+E:\Project\MyTest\小东西\MyProject_Home\MyProject_Home.EncryptAndDecrypt\bin\Debug\MyProject_Home.Common.dll
+E:\Project\MyTest\小东西\MyProject_Home\MyProject_Home.EncryptAndDecrypt\bin\Debug\MyProject_Home.Common.pdb
